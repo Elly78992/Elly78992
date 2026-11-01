@@ -1,15 +1,26 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E004F,25:5B0E91,50:8000C8,75:A855F7,100:D8B4FE&height=180&section=header&text=DANIELLY%20MARIANO&fontColor=ffffff&animation=fadeIn&fontSize=40&fontAlignY=35&desc=Estudante%20de%20Ciência%20da%20Computação%20%7C%20Desenvolvimento%20Web&descAlignY=55&descSize=16" width="100%"/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:090014,50:4B0082,100:8A2BE2&text=DANIELLY%20MARIANO&fontColor=FFFFFF&fontSize=40&fontAlignY=45&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Front-End%20Developer&descAlignY=65&descSize=15" width="100%"/><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Initializing+my+developer+journey...;Computer+Science+Student;Exploring+Front-End+Development;Turning+ideas+into+code!" /></div>---
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Iniciando+minha+jornada+na+tecnologia;Bem-Vindo(a)+ao+meu+perfil!;Transformando+ideias+em+código!" />
 
- ABOUT ME 
+</div>
+<div align="center"><a href="https://www.linkedin.com/">
+</a><a href="https://www.linkedin.com/in/danielly-mariano-968026429/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="https://github.com/Elly78992">
+<img src="https://img.shields.io/badge/GitHub-My%20Repositories-1A0033?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</div>---
 
+ 
 
-Olá! Sou estudante de Ciência da Computação na Universidade Cidade de São Paulo (UNICID) e estou construindo minha trajetória na área de tecnologia, com foco em Desenvolvimento Front-End.
+✨Sobre mim
+🎓 Sou estudante de **Ciência da Computação** na Universidade Cidade de São Paulo (UNICID) e estou construindo minha trajetória na área de tecnologia, com foco em Desenvolvimento Front-End.
 
-Tenho interesse em desenvolvimento web, tecnologia, design de interfaces e experiência do usuário.
+Tenho interesse em desenvolvimento web, focando na criação do Front-end, buscando desenvolver interfaces modernas,funcionais e experiência do usuário.
 
-Gosto de aprender coisas novas, investigar soluções e transformar ideias em projetos. Estou sempre buscando desenvolver minhas habilidades técnicas e evoluir como profissional.
+Estou sempre em busca novos conhecimentos,desenvolver minhas habilidades técnicas e evoluir como profissional.
 
 
     objetivo: "Evoluir e construir soluções através da tecnologia"
@@ -17,68 +28,35 @@ Gosto de aprender coisas novas, investigar soluções e transformar ideias em pr
 
 ---
 
-💻 HARD SKILLS
+##💻 HARD SKILLS
 
-Linguagens e Desenvolvimento
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python" />
-</p>
+![HTML5](https://img.shields.io/badge/HTML5-9B59B6?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-8E44AD?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-7D3C98?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6C3483?style=for-the-badge&logo=python&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-6C3483?style=for-the-badge&logo=figma&logoColor=white)
 
-Design e Prototipação
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-Ferramentas de Desenvolvimento
-
-<p>
-<img src="https://skillicons.dev/icons?i=github,vscode" />
-</p>
+</div>
 
 ---
 
-🧠 SOFT SKILLS
+##🌷 Soft Skills
 
-|Habilidade|Descrição|
-|-----------|-----------|
-|🚀 Proatividade| Iniciativa para aprender e agir.|
-|📋 Organização| Planejamento e organização de atividades.|
-|🔄 Adaptabilidade| Facilidade para lidar com mudanças.|
-|🎯 Foco em resultados| Comprometimento com objetivos.|
-|🧩 Resolução de problemas| Investigação e busca por soluções.|
-|🔎 Atenção aos detalhes| Cuidado e precisão nas atividades.|
-|💡 Pensamento analítico| Análise de situações antes de decidir.|
-|🤝 Comunicação| Facilidade para expressar ideias e colaborar.|
+<div align="center">
 
----
+![Proatividade](https://img.shields.io/badge/Proatividade-9B59B6?style=flat-square)
+![Organização](https://img.shields.io/badge/Organização-9B59B6?style=flat-square)
+![Adaptabilidade](https://img.shields.io/badge/Adaptabilidade-9B59B6?style=flat-square)
+![Foco em resultados](https://img.shields.io/badge/Foco_em_resultados-9B59B6?style=flat-square)
+![Resolução de Problemas](https://img.shields.io/badge/Resolução_de_Problemas-9B59B6?style=flat-square)
+![Proatividade](https://img.shields.io/badge/Proatividade-9B59B6?style=flat-square)
 
-📚 CURRENTLY LEARNING
-
-- HTML
-- CSS
-- JavaScript
-- Python
-- UX/UI Design
-- Git & GitHub
-
-Em constante aprendizado e evolução.
+</div>
 
 ---
 
-🚀 MY PROJECTS
-
-Aqui você encontrará alguns dos projetos que desenvolvi durante minha jornada acadêmica e meus estudos em programação.
-
-- 🌐 Projetos de desenvolvimento web com HTML, CSS e JavaScript.
-- 🗄️ Projetos acadêmicos de modelagem e banco de dados.
-- 🎨 Projetos de prototipação e UX/UI Design.
-- 🐍 Exercícios e projetos de programação em Python.
-
-Confira meus repositórios para acompanhar minha evolução!
-
----
 
 🎯 MY GOALS
 
@@ -95,14 +73,6 @@ Confira meus repositórios para acompanhar minha evolução!
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Elly78992&theme=midnight-purple&hide_border=true"/></div>---
 
-🌐 CONNECT WITH ME
-
-<div align="center"><a href="https://www.linkedin.com/">
-</a><a href="https://www.linkedin.com/in/danielly-mariano-968026429/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/Elly78992">
-<img src="https://img.shields.io/badge/GitHub-My%20Repositories-1A0033?style=for-the-badge&logo=github&logoColor=white"/>
-</a></div>---
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:090014&height=100&section=footer"/>
    
